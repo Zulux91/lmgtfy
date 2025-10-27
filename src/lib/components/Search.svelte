@@ -32,7 +32,7 @@
 		maxlength="2048"
 		name="q"
 		spellcheck="false"
-		title="Search"
+		title="Buscar"
 		type="text"
 	/>
 </div>

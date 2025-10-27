@@ -11,7 +11,7 @@
 		name="btnK"
 		tabindex="0"
 		type="submit"
-		value="Google Search"
+		value="Buscar en Google"
 	/>
 
 	<input
@@ -20,6 +20,6 @@
 		class="rounded border border-transparent bg-zinc-100 px-4 py-2 dark:bg-zinc-700 hover:dark:border-zinc-500"
 		name="btnI"
 		type="submit"
-		value="I'm Feeling Lucky"
+		value="Me siento afortunado"
 	/>
 </div>

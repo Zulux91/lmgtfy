@@ -13,4 +13,4 @@
 	>
 </label>
 
-<label for={f}><small>Let me Google that for you</small></label>
+<label for={f}><small>Deja que busque por ti en Google</small></label>
