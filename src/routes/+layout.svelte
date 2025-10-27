@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Let me Google that for you</title>
+	<title>Deja que busque por ti en Google</title>
 </svelte:head>
 
 <div class="flex h-screen flex-col text-zinc-900 dark:text-zinc-50">
